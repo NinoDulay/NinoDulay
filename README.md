@@ -1,4 +1,4 @@
-# Altis Jessie Niño Dulay — Python Automation Portfolio
+# Hi, I am Altis Jessie Niño Dulay!
 
 ## Overview
 
