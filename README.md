@@ -133,7 +133,7 @@ IoT / Embedded Systems (PoC)
 
 ## Contact
 
-Email: yourname@email.com  
+Email: altisjessienino18@gmail.com
 Location: Philippines  
 Open to: Python Developer | Automation Engineer | IT / DevOps Roles
 
